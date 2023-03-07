@@ -6,7 +6,7 @@
 //
 
 #include "objet.hpp"
-#include "bmpfuncs.hpp"
+#include "bmpfuncs.h"
 
 GLuint* texShuttle = new GLuint();
 void shuttleTextureMapping(void){
