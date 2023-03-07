@@ -5,9 +5,9 @@
 //  Created by Nurjol Badyelkhan on 2021/12/16.
 //
 
+#include <GL/glew.h>
 #include <GL/glut.h>
 #include <GL/freeglut.h>
-#include<GL/glext.h>
 #include <stdio.h>
 #include <string>
 #include <iostream>
