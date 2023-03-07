@@ -5,8 +5,8 @@
 //  Created by Nurjol Badyelkhan on 2021/12/03.
 //
 
+#include<GL/glew.h>
 #include <GL/glut.h>
-#include<GL/glext.h>
 #include <GL/freeglut.h>
 #include <stdlib.h>
 #include <math.h>
@@ -14,7 +14,7 @@
 #include<string.h>
 #include<vector>
 #include<execution>
-#include "bmpfuncs.hpp"
+#include "bmpfuncs.h"
 #include "objet.hpp"
 
 #define WINDOW_WIDTH 800
