@@ -14,7 +14,7 @@ For the future:
   - make point system.
   
   
-  
+  example screenshot:
 ![shuttle](https://user-images.githubusercontent.com/65017142/223376404-e436bee6-e3a9-45eb-9cd5-0eedb7b2b48a.png)
 
 -Please intsall OpenGL
